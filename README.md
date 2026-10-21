@@ -1,2 +1,1 @@
-# file-organizer
-my 4th project
+This is my Python File Organizer project, built to make managing files easier. It automatically sorts files into different folders based on their extensions, helping keep everything neat and organized. While building this project, I got practical experience with Python file handling, folders, and directory management. I'm learning by building small projects and improving my coding skills step by step. 
